@@ -1,0 +1,21 @@
+.top-bg{
+    background-color: rgb(219, 255, 242);
+}
+.card{
+    border: none;
+    background-color: rgba(219, 255, 242, 0.5);
+}
+.card:hover{
+    box-shadow: 1px 1px 10px rgb(42, 25, 68);
+    background-color: white;
+}
+.heighlight{
+    color: rgba(65, 12, 65, 0.877);
+}
+.line-height{
+    line-height: 27px;
+    font-weight: 500;
+}
+.bottom-bg{
+    background-color: rgb(40, 18, 58);
+}
